@@ -10,5 +10,11 @@ Hmm I don't know about that :), I run this script in the Pterodactyl panel, Want
 
 ``` shell
 pkg update -y && pkg upgrade -y
+```
+``` shell
 pkg install nodejs -y && pkg install openssh -y
+```
+
+Thank you 🥷🥰
+
 
